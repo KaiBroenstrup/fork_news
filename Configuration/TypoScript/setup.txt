@@ -1,0 +1,11 @@
+plugin.tx_news {
+	_LOCAL_LANG.default{
+		forknews.example		= Example Field
+	}
+	_LOCAL_LANG.en{
+		forknews.example		= Example Field
+	}
+	_LOCAL_LANG.de{
+		forknews.example		= Beispielfeld
+	}
+}

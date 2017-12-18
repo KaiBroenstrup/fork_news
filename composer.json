@@ -1,0 +1,31 @@
+{
+  "name": "fork/fork-news",
+  "type": "typo3-cms-extension",
+  "description": "Extends the Extension news with additional fields",
+  "keywords": [
+    "TYPO3",
+    "extension",
+    "frontend",
+    "news"
+  ],
+  "homepage": "http://www.kaibroenstrup.de",
+  "authors": [
+    {
+      "name": "Kai Broenstrup",
+      "role": "Developer",
+      "homepage": "http://www.kaibroenstrup.com"
+    }
+  ],
+  "license": [
+    "GPL-2.0+"
+  ],
+  "require": {
+    "typo3/cms-core": ">=7.6.0 <=8.7.99",
+    "georgringer/news": ">=5.0.0,<6.9.99"
+  },
+  "autoload": {
+    "psr-4": {
+      "Fork\\ForkNews\\": "Classes"
+    }
+  }
+}
