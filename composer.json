@@ -1,5 +1,5 @@
 {
-  "name": "fork/fork-news",
+  "name": "fork/fork_news",
   "type": "typo3-cms-extension",
   "description": "Extends the Extension news with additional fields",
   "keywords": [
